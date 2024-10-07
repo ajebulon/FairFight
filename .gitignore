@@ -1,1 +1,3 @@
 venv
+fairfight/__pycache__
+db.sqlite3
